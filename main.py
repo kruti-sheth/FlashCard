@@ -1,3 +1,5 @@
+#welcome to python code for learn french language
+
 from tkinter import *
 import pandas
 import random
